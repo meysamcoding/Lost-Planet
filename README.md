@@ -6,7 +6,7 @@ collaborator: Meysam Najafi, Hakob Muradinan, Chris , Cathrine
 Langugaes: HTML,CSS, Javascript, Jquery,
 
 
-Link to the App: https://enigmatic-journey-94568.herokuapp.com/
+  enigmatic-journey-94568.herokuapp 
 
 <br>
 
