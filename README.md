@@ -1,7 +1,7 @@
 # Project 2 - Lost Planet Website
 ![](Capture.PNG)
 <br>
-collaborator: Meysam Najafi, Hakob Muradinan, Chris , Cathrine
+collaborator: Najafi, Hakob Muradinan, Chris , Cathrine
 
 Langugaes: HTML,CSS, Javascript, Jquery,
 
